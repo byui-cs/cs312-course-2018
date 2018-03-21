@@ -1,0 +1,14 @@
+Include this file with your answers in the ZIP file
+that you will be submitting to I-Learn for this project.
+
+
+1) Why are the stars not in a column?
+
+
+
+
+2) How would you fix Crush to have the stars in a column?
+
+
+
+
